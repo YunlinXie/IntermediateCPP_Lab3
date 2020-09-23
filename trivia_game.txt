@@ -1,0 +1,69 @@
+TriviaGame[0]("#1: In what place was Christmas once illegal?");
+    TriviaGame[0].setAnswer1("1. Brazil");
+    TriviaGame[0].setAnswer2("2. Russia");
+    TriviaGame[0].setAnswer3("3. France");
+    TriviaGame[0].setAnswer4("4. England");
+    TriviaGame[0].setCorrect(4);
+
+    TriviaGame[1].setQuestion("#2: Coulrophobia means fear of what?");
+    TriviaGame[1].setAnswer1("1. Clowns");
+    TriviaGame[1].setAnswer2("2. Old People");
+    TriviaGame[1].setAnswer3("3. Sacred Things");
+    TriviaGame[1].setAnswer4("4. Jews");
+    TriviaGame[1].setCorrect(1);
+
+    TriviaGame[2].setQuestion("#3: How many dimples are there on a regular golf ball?");
+    TriviaGame[2].setAnswer1("1. 337");
+    TriviaGame[2].setAnswer2("2. 418");
+    TriviaGame[2].setAnswer3("3. 336");
+    TriviaGame[2].setAnswer4("4. 294");
+    TriviaGame[2].setCorrect(3);
+
+    TriviaGame[3].setQuestion("#4: Which of the following is the longest running American animated TV show?");
+    TriviaGame[3].setAnswer1("1. Rugrats");
+    TriviaGame[3].setAnswer2("2. Simpsons");
+    TriviaGame[3].setAnswer3("3. Pokemon");
+    TriviaGame[3].setAnswer4("4. TV Funhouse");
+    TriviaGame[3].setCorrect(2);
+
+    TriviaGame[4].setQuestion("#5: Every year, over 8800 people injure themselves with what apparently harmless, tiny object?");
+    TriviaGame[4].setAnswer1("1. Knife");
+    TriviaGame[4].setAnswer2("2. Pencil");
+    TriviaGame[4].setAnswer3("3. Baseball bat");
+    TriviaGame[4].setAnswer4("4. Toothpick");
+    TriviaGame[4].setCorrect(4);
+
+    TriviaGame[5].setQuestion("#6: How many pounds of pressure do you need to rip off your ear?");
+    TriviaGame[5].setAnswer1("1. 7 pounds");
+    TriviaGame[5].setAnswer2("2. 2 pounds");
+    TriviaGame[5].setAnswer3("3. 17 pounds");
+    TriviaGame[5].setAnswer4("4. 11 pounds");
+    TriviaGame[5].setCorrect(1);
+
+    TriviaGame[6].setQuestion("#7: At what temperature are Fahrenheit and Celsius the same?");
+    TriviaGame[6].setAnswer1("1. 0");
+    TriviaGame[6].setAnswer2("2. -40");
+    TriviaGame[6].setAnswer3("3. 50");
+    TriviaGame[6].setAnswer4("4. 92");
+    TriviaGame[6].setCorrect(2);
+
+    TriviaGame[7].setQuestion("#8: What are the odds of being killed by space debris?");
+    TriviaGame[7].setAnswer1("1. 1 in 5 million");
+    TriviaGame[7].setAnswer2("2. 1 in 1 trillion");
+    TriviaGame[7].setAnswer3("3. 1 in 10 billion");
+    TriviaGame[7].setAnswer4("4. 1 in 5 billion");
+    TriviaGame[7].setCorrect(4);
+
+    TriviaGame[8].setQuestion("#9: What percentage of Japanese citizens are cremated?");
+    TriviaGame[8].setAnswer1("1. 26");
+    TriviaGame[8].setAnswer2("2. 5");
+    TriviaGame[8].setAnswer3("3. 98");
+    TriviaGame[8].setAnswer4("4. 11");
+    TriviaGame[8].setCorrect(3);
+
+    TriviaGame[9].setQuestion("#10:  In what key do most American car-horns honk?");
+    TriviaGame[9].setAnswer1("1. C");
+    TriviaGame[9].setAnswer2("2. E");
+    TriviaGame[9].setAnswer3("3. F");
+    TriviaGame[9].setAnswer4("4. G");
+    TriviaGame[9].setCorrect(3);
